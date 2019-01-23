@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: 3436462777a002140a8820b6dac30da6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AmericanFlag
+    100002: AmericanFlag 1
+    100004: Arena
+    100006: Arena_MeshPart0
+    100008: Arena_MeshPart1
+    100010: Arena_MeshPart10
+    100012: Arena_MeshPart11
+    100014: Arena_MeshPart12
+    100016: Arena_MeshPart13
+    100018: Arena_MeshPart14
+    100020: Arena_MeshPart2
+    100022: Arena_MeshPart3
+    100024: Arena_MeshPart4
+    100026: Arena_MeshPart5
+    100028: Arena_MeshPart6
+    100030: Arena_MeshPart7
+    100032: Arena_MeshPart8
+    100034: Arena_MeshPart9
+    100036: BackBoardTrim
+    100038: BackBoardTrim 1
+    100040: BackBoardTrims
+    100042: BackBoardTrims 1
+    100044: Banners
+    100046: Base
+    100048: Base 1
+    100050: BasketBall
+    100052: BasketballHoop1GRP
+    100054: BasketballHoop2GRP
+    100056: BlackMetal
+    100058: BlackMetal 1
+    100060: Carpet
+    100062: Concrete
+    100064: Court
+    100066: CourtGRP
+    100068: Exterior
+    100070: Floor
+    100072: FoldupChair1
+    100074: FoldupChair10
+    100076: FoldupChair11
+    100078: FoldupChair12
+    100080: FoldupChair13
+    100082: FoldupChair14
+    100084: FoldupChair15
+    100086: FoldupChair16
+    100088: FoldupChair17
+    100090: FoldupChair18
+    100092: FoldupChair19
+    100094: FoldupChair2
+    100096: FoldupChair20
+    100098: FoldupChair21
+    100100: FoldupChair22
+    100102: FoldupChair23
+    100104: FoldupChair24
+    100106: FoldupChair25
+    100108: FoldupChair26
+    100110: FoldupChair27
+    100112: FoldupChair28
+    100114: FoldupChair29
+    100116: FoldupChair3
+    100118: FoldupChair30
+    100120: FoldupChair31
+    100122: FoldupChair32
+    100124: FoldupChair33
+    100126: FoldupChair34
+    100128: FoldupChair35
+    100130: FoldupChair36
+    100132: FoldupChair4
+    100134: FoldupChair5
+    100136: FoldupChair6
+    100138: FoldupChair7
+    100140: FoldupChair8
+    100142: FoldupChair9
+    100144: FoldUpChairGRP
+    100146: Glass
+    100148: Glass 1
+    100150: //RootNode
+    100152: NBASticker
+    100154: NBASticker 1
+    100156: Net
+    100158: Net 1
+    100160: Ring
+    100162: Ring 1
+    100164: Scoreboard
+    400000: AmericanFlag
+    400002: AmericanFlag 1
+    400004: Arena
+    400006: Arena_MeshPart0
+    400008: Arena_MeshPart1
+    400010: Arena_MeshPart10
+    400012: Arena_MeshPart11
+    400014: Arena_MeshPart12
+    400016: Arena_MeshPart13
+    400018: Arena_MeshPart14
+    400020: Arena_MeshPart2
+    400022: Arena_MeshPart3
+    400024: Arena_MeshPart4
+    400026: Arena_MeshPart5
+    400028: Arena_MeshPart6
+    400030: Arena_MeshPart7
+    400032: Arena_MeshPart8
+    400034: Arena_MeshPart9
+    400036: BackBoardTrim
+    400038: BackBoardTrim 1
+    400040: BackBoardTrims
+    400042: BackBoardTrims 1
+    400044: Banners
+    400046: Base
+    400048: Base 1
+    400050: BasketBall
+    400052: BasketballHoop1GRP
+    400054: BasketballHoop2GRP
+    400056: BlackMetal
+    400058: BlackMetal 1
+    400060: Carpet
+    400062: Concrete
+    400064: Court
+    400066: CourtGRP
+    400068: Exterior
+    400070: Floor
+    400072: FoldupChair1
+    400074: FoldupChair10
+    400076: FoldupChair11
+    400078: FoldupChair12
+    400080: FoldupChair13
+    400082: FoldupChair14
+    400084: FoldupChair15
+    400086: FoldupChair16
+    400088: FoldupChair17
+    400090: FoldupChair18
+    400092: FoldupChair19
+    400094: FoldupChair2
+    400096: FoldupChair20
+    400098: FoldupChair21
+    400100: FoldupChair22
+    400102: FoldupChair23
+    400104: FoldupChair24
+    400106: FoldupChair25
+    400108: FoldupChair26
+    400110: FoldupChair27
+    400112: FoldupChair28
+    400114: FoldupChair29
+    400116: FoldupChair3
+    400118: FoldupChair30
+    400120: FoldupChair31
+    400122: FoldupChair32
+    400124: FoldupChair33
+    400126: FoldupChair34
+    400128: FoldupChair35
+    400130: FoldupChair36
+    400132: FoldupChair4
+    400134: FoldupChair5
+    400136: FoldupChair6
+    400138: FoldupChair7
+    400140: FoldupChair8
+    400142: FoldupChair9
+    400144: FoldUpChairGRP
+    400146: Glass
+    400148: Glass 1
+    400150: //RootNode
+    400152: NBASticker
+    400154: NBASticker 1
+    400156: Net
+    400158: Net 1
+    400160: Ring
+    400162: Ring 1
+    400164: Scoreboard
+    2300000: AmericanFlag
+    2300002: AmericanFlag 1
+    2300004: Arena_MeshPart0
+    2300006: Arena_MeshPart1
+    2300008: Arena_MeshPart10
+    2300010: Arena_MeshPart11
+    2300012: Arena_MeshPart12
+    2300014: Arena_MeshPart13
+    2300016: Arena_MeshPart14
+    2300018: Arena_MeshPart2
+    2300020: Arena_MeshPart3
+    2300022: Arena_MeshPart4
+    2300024: Arena_MeshPart5
+    2300026: Arena_MeshPart6
+    2300028: Arena_MeshPart7
+    2300030: Arena_MeshPart8
+    2300032: Arena_MeshPart9
+    2300034: BackBoardTrim
+    2300036: BackBoardTrim 1
+    2300038: BackBoardTrims
+    2300040: BackBoardTrims 1
+    2300042: Banners
+    2300044: Base
+    2300046: Base 1
+    2300048: BasketBall
+    2300050: BlackMetal
+    2300052: BlackMetal 1
+    2300054: Carpet
+    2300056: Concrete
+    2300058: Court
+    2300060: Exterior
+    2300062: Floor
+    2300064: FoldupChair1
+    2300066: FoldupChair10
+    2300068: FoldupChair11
+    2300070: FoldupChair12
+    2300072: FoldupChair13
+    2300074: FoldupChair14
+    2300076: FoldupChair15
+    2300078: FoldupChair16
+    2300080: FoldupChair17
+    2300082: FoldupChair18
+    2300084: FoldupChair19
+    2300086: FoldupChair2
+    2300088: FoldupChair20
+    2300090: FoldupChair21
+    2300092: FoldupChair22
+    2300094: FoldupChair23
+    2300096: FoldupChair24
+    2300098: FoldupChair25
+    2300100: FoldupChair26
+    2300102: FoldupChair27
+    2300104: FoldupChair28
+    2300106: FoldupChair29
+    2300108: FoldupChair3
+    2300110: FoldupChair30
+    2300112: FoldupChair31
+    2300114: FoldupChair32
+    2300116: FoldupChair33
+    2300118: FoldupChair34
+    2300120: FoldupChair35
+    2300122: FoldupChair36
+    2300124: FoldupChair4
+    2300126: FoldupChair5
+    2300128: FoldupChair6
+    2300130: FoldupChair7
+    2300132: FoldupChair8
+    2300134: FoldupChair9
+    2300136: Glass
+    2300138: Glass 1
+    2300140: NBASticker
+    2300142: NBASticker 1
+    2300144: Net
+    2300146: Net 1
+    2300148: Ring
+    2300150: Ring 1
+    2300152: Scoreboard
+    2300154: Arena
+    3300000: AmericanFlag
+    3300002: AmericanFlag 1
+    3300004: Arena_MeshPart0
+    3300006: Arena_MeshPart1
+    3300008: Arena_MeshPart10
+    3300010: Arena_MeshPart11
+    3300012: Arena_MeshPart12
+    3300014: Arena_MeshPart13
+    3300016: Arena_MeshPart14
+    3300018: Arena_MeshPart2
+    3300020: Arena_MeshPart3
+    3300022: Arena_MeshPart4
+    3300024: Arena_MeshPart5
+    3300026: Arena_MeshPart6
+    3300028: Arena_MeshPart7
+    3300030: Arena_MeshPart8
+    3300032: Arena_MeshPart9
+    3300034: BackBoardTrim
+    3300036: BackBoardTrim 1
+    3300038: BackBoardTrims
+    3300040: BackBoardTrims 1
+    3300042: Banners
+    3300044: Base
+    3300046: Base 1
+    3300048: BasketBall
+    3300050: BlackMetal
+    3300052: BlackMetal 1
+    3300054: Carpet
+    3300056: Concrete
+    3300058: Court
+    3300060: Exterior
+    3300062: Floor
+    3300064: FoldupChair1
+    3300066: FoldupChair10
+    3300068: FoldupChair11
+    3300070: FoldupChair12
+    3300072: FoldupChair13
+    3300074: FoldupChair14
+    3300076: FoldupChair15
+    3300078: FoldupChair16
+    3300080: FoldupChair17
+    3300082: FoldupChair18
+    3300084: FoldupChair19
+    3300086: FoldupChair2
+    3300088: FoldupChair20
+    3300090: FoldupChair21
+    3300092: FoldupChair22
+    3300094: FoldupChair23
+    3300096: FoldupChair24
+    3300098: FoldupChair25
+    3300100: FoldupChair26
+    3300102: FoldupChair27
+    3300104: FoldupChair28
+    3300106: FoldupChair29
+    3300108: FoldupChair3
+    3300110: FoldupChair30
+    3300112: FoldupChair31
+    3300114: FoldupChair32
+    3300116: FoldupChair33
+    3300118: FoldupChair34
+    3300120: FoldupChair35
+    3300122: FoldupChair36
+    3300124: FoldupChair4
+    3300126: FoldupChair5
+    3300128: FoldupChair6
+    3300130: FoldupChair7
+    3300132: FoldupChair8
+    3300134: FoldupChair9
+    3300136: Glass
+    3300138: Glass 1
+    3300140: NBASticker
+    3300142: NBASticker 1
+    3300144: Net
+    3300146: Net 1
+    3300148: Ring
+    3300150: Ring 1
+    3300152: Scoreboard
+    3300154: Arena
+    4300000: BackBoardTrims
+    4300002: BackBoardTrim
+    4300004: Glass
+    4300006: BlackMetal
+    4300008: Ring
+    4300010: Base
+    4300012: NBASticker
+    4300014: AmericanFlag
+    4300016: Net
+    4300018: BackBoardTrims
+    4300020: BackBoardTrim
+    4300022: Glass
+    4300024: BlackMetal
+    4300026: Ring
+    4300028: Base
+    4300030: NBASticker
+    4300032: AmericanFlag
+    4300034: Net
+    4300036: BasketBall
+    4300038: Court
+    4300040: Concrete
+    4300042: Floor
+    4300044: Arena_MeshPart0
+    4300046: Arena_MeshPart1
+    4300048: Arena_MeshPart2
+    4300050: Arena_MeshPart3
+    4300052: Arena_MeshPart4
+    4300054: Arena_MeshPart5
+    4300056: Arena_MeshPart6
+    4300058: Arena_MeshPart7
+    4300060: Arena_MeshPart8
+    4300062: Arena_MeshPart9
+    4300064: Arena_MeshPart10
+    4300066: Arena_MeshPart11
+    4300068: Arena_MeshPart12
+    4300070: Arena_MeshPart13
+    4300072: Arena_MeshPart14
+    4300074: Banners
+    4300076: FoldupChair10
+    4300078: FoldupChair11
+    4300080: FoldupChair12
+    4300082: FoldupChair13
+    4300084: FoldupChair14
+    4300086: FoldupChair15
+    4300088: FoldupChair16
+    4300090: FoldupChair17
+    4300092: FoldupChair18
+    4300094: FoldupChair1
+    4300096: FoldupChair2
+    4300098: FoldupChair3
+    4300100: FoldupChair4
+    4300102: FoldupChair5
+    4300104: FoldupChair6
+    4300106: FoldupChair7
+    4300108: FoldupChair8
+    4300110: FoldupChair9
+    4300112: FoldupChair19
+    4300114: FoldupChair20
+    4300116: FoldupChair21
+    4300118: FoldupChair22
+    4300120: FoldupChair23
+    4300122: FoldupChair24
+    4300124: FoldupChair25
+    4300126: FoldupChair26
+    4300128: FoldupChair27
+    4300130: FoldupChair28
+    4300132: FoldupChair29
+    4300134: FoldupChair30
+    4300136: FoldupChair31
+    4300138: FoldupChair32
+    4300140: FoldupChair33
+    4300142: FoldupChair34
+    4300144: FoldupChair35
+    4300146: FoldupChair36
+    4300148: Exterior
+    4300150: Carpet
+    4300152: Scoreboard
+    4300154: Arena
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BannersShader
+    second: {fileID: 2100000, guid: 745f3d018e435ed4db5ecff8e3d2a8ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BasketballBaseShader
+    second: {fileID: 2100000, guid: ea8f20ba43767264d8cb4aab7cfe58a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BasketballShader
+    second: {fileID: 2100000, guid: c4780fd48ca93374f919a5009e46709f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackCarpetShader
+    second: {fileID: 2100000, guid: 58986542dd1afd741992b17d82637a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetalShader
+    second: {fileID: 2100000, guid: d0353b290a0421740b765cca7c1a0fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackWoodShader
+    second: {fileID: 2100000, guid: 1261d0809f672da4589a7ca4f19fde70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownCarpetShader
+    second: {fileID: 2100000, guid: d549d31f544a6dc49812927b60d21963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BulbShader
+    second: {fileID: 2100000, guid: eea805b0544555243a20abcdc7907ea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteShader
+    second: {fileID: 2100000, guid: 09588565031f70d42b22cf45c8492f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkPlasterShader
+    second: {fileID: 2100000, guid: ebcf11a51c3812a4fb0b739e48573efd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GalvanizedMetalShader
+    second: {fileID: 2100000, guid: 7082ad0e4289be942bb1c1e94e9f9875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassShader
+    second: {fileID: 2100000, guid: a2d210efd054ed845a228616fd0ac818, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrayMetalShader
+    second: {fileID: 2100000, guid: 11424eb79a1b25645bd2a859e7037153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LakersLogo1Shader
+    second: {fileID: 2100000, guid: a740dccbe0e6ecc49ba608251e1fca0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LakersLogo2Shader
+    second: {fileID: 2100000, guid: a740dccbe0e6ecc49ba608251e1fca0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LakersLogo3Shader
+    second: {fileID: 2100000, guid: a740dccbe0e6ecc49ba608251e1fca0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalRoofShader
+    second: {fileID: 2100000, guid: 598031a52d78276499e231cb66f84606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalShader
+    second: {fileID: 2100000, guid: 25992fdf7f58b454cb4cb9c46dbf9020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OrangeMetalShader
+    second: {fileID: 2100000, guid: c412b809646760a48861af7d4bb4052b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ParquetFloorShader
+    second: {fileID: 2100000, guid: 067233f08eb411247abf33997fa1157b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticShader
+    second: {fileID: 2100000, guid: 987e33fec684ffb4682a23ccc2d9826a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PurpleTapeShader
+    second: {fileID: 2100000, guid: e9526b25feeeb0b45a5146e61402841c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedCarpetShader
+    second: {fileID: 2100000, guid: a8ce4fe70689cb0469934835e6314120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RopeShader
+    second: {fileID: 2100000, guid: 4865a0be87b6cb44d9240ac0ba484ea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScoreboardShader
+    second: {fileID: 2100000, guid: f3270ce7176afdc4cb1839ae8155034a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scoreboard_BlackMetalShader
+    second: {fileID: 2100000, guid: 5cb129726a55c924f950e1cfc4bdd2d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scoreboard_GlassShader
+    second: {fileID: 2100000, guid: ca8e5c52c8b799c4c90ca2c0dae6aabd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SeatShader
+    second: {fileID: 2100000, guid: 8ec6270d6d7a70d4687b2a8e49225641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SteelShader
+    second: {fileID: 2100000, guid: 0badb298e5823d34798dd91692a01d28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneShader
+    second: {fileID: 2100000, guid: 517772bb110b5e948a1e5a229ee4cef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteBackboardShader
+    second: {fileID: 2100000, guid: 402073dc8fd4961459aeb74568b1e709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhitePlasterShader
+    second: {fileID: 2100000, guid: 3ccf03dcdc67f8a44b12a0fab009541a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowTapeShader
+    second: {fileID: 2100000, guid: 1f06d7e68546d5e489f90c67eb708451, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
